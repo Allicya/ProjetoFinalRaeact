@@ -1,0 +1,23 @@
+.menu {
+    display: flex;
+    gap:30px;
+    list-style: none;
+    padding: 16px;
+    position: absolute;
+    right: 0;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0 auto ;
+}
+
+.menu li {
+   
+
+}
+
+.itemMenu {
+    text-decoration: none;
+    color: black;
+}
